@@ -1,4 +1,4 @@
-# OttoGroupProductClassificationChallenge
+# Otto Group Product Classification Challenge
 https://www.kaggle.com/c/otto-group-product-classification-challenge
 
 The objective of Otto Group Product Classification Challenge is to build a model which is able to distinguish between 9 categories provided.
